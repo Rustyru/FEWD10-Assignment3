@@ -44,7 +44,9 @@ Developer @GA in NYC
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
+a{
+    color: yellow;
+}
 body {
     max-width: 960px;
      color: #000;
@@ -99,7 +101,7 @@ aside{
     margin: 0 auto;
 }
 header {
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+    background: #446CB3;
     background-size: cover;
     padding-bottom: 10%
 }
